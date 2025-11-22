@@ -27,5 +27,3 @@ Please download and prepare the following datasets:
 
 * **Source URL:** [https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/](https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/)
 download the raw dataset
-
-# TEST LINK: [https://drive.google.com/file/d/1bjgVUBGIW9TD3aToK3GxNIvzPQO9TE2I/view?usp=drivesdk](click here)
